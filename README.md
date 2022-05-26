@@ -3,5 +3,5 @@
 </br>
 </br>
 <img src="https://user-images.githubusercontent.com/80414685/170500212-7c66cc2e-6a3b-4f01-90f1-e7522562e0ea.png#gh-light-mode-only" alt="DARK LOGO" style="width:200px;height:34px;">
-<img src="https://user-images.githubusercontent.com/80414685/170500215-5efade93-0f31-4803-8182-a2fa9832bf57.png#gh-dark-mode-only" alt="DARK LOGO" style="width:200px;height:34px;">
+<img src="https://user-images.githubusercontent.com/80414685/170500215-5efade93-0f31-4803-8182-a2fa9832bf57.png#gh-dark-mode-only" alt="LIGHT LOGO" style="width:200px;height:34px;">
 </p>
